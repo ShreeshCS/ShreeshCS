@@ -1,7 +1,7 @@
 # Hi there, I'm Shreesh! 👋 
 
 ### 🚀 Full-Stack Developer & AI Enthusiast
-I’m a Software Developer based in Hyderabad, specializing in building scalable, accessible enterprise applications. I bridge the gap between robust backend architecture and seamless, inclusive frontend experiences.
+I’m a Software Developer based in Hyderabad, specializing in building scalable, accessible enterprise applications. I bridge the gap between robust backend architecture and seamless, inclusive front-end experiences.
 
 ---
 
@@ -18,6 +18,7 @@ I’m a Software Developer based in Hyderabad, specializing in building scalable
 ---
 
 ### 🌟 What I'm Doing at the Moment
+* **Personal Project:** Building **Teco**, a chat application designed for personal and team collaboration, with a focus on clean user experience, real-time messaging, and scalable product architecture.
 * **Enterprise Scale:** Currently engineering global audit solutions at **Deloitte**.
 * **Accessibility Champion:** Crafting inclusive UI components with ARIA roles and keyboard navigation.
 * **AI Integration:** Leveraging GitHub Copilot to optimize development workflows and refactoring.
